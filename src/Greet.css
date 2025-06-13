@@ -1,0 +1,11 @@
+.greeting-card {
+    border: 1px black;
+    padding: 1rem;
+    width: 300px;
+    margin: auto;
+    margin-bottom: 2rem;
+    background-color: bisque;
+    height: 170px;
+    border-radius: 5px;
+
+}
